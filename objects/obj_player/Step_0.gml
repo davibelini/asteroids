@@ -2,3 +2,4 @@
 
 move(spd)
 follow_mouse()
+mouse_get_click()
